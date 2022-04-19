@@ -68,6 +68,7 @@ h1 {
 
 	position: absolute;
 	background-color: #53ffaa;
+	border: none;
 
 	height: 6.4rem;
 	width: 6.4rem;
@@ -84,6 +85,7 @@ h1 {
 	cursor: pointer;
 	background: #53ffaa;
 	box-shadow: 0px 0px 40px #53ffaa;
+	transition: 0.3s;
 }
 
 .img-dice-icon {
